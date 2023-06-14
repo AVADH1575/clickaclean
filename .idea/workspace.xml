@@ -4,89 +4,11 @@
     <option name="TOOL_WINDOW_LOG_LEVEL" value="info" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="661ee5f0-3582-4259-938d-bd8bbd87422b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/images/background_image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/cancel_btn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/circle-unfilled.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/noti.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ApiHit/Constants/constants.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ApiHit/SharedPrefs/SharedPrefers.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ApiHit/TestClasses/MovieDetail.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ApiHit/TestClasses/MovieList.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ApiHit/VideoPlayerScreen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ApiHit/VideoUpload.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ApiHit/VideoUploadSample.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ApiHit/imageUpload.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/FirebaseIntegration/FirebaseHandler.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/FirebaseIntegration/LoginPage.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/FirebaseIntegration/PhoneNumberFirebaseLogin/Provider_Auth.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ProviderEnd/AccountSetup/Authentication/ProviderLoginEmail.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ProviderEnd/AccountSetup/BankDetails/BankDetailsUpdate.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ProviderEnd/AccountSetup/Home/ProviderHomeMenuTab.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ProviderEnd/AccountSetup/Profile/EditWorkPhotos.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ProviderEnd/AccountSetup/VerifyAccount/IdentityAllowMicrophoneAccess.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ProviderEnd/AccountSetup/VerifyAccount/IdentityCameraBackIDUpload.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ProviderEnd/AccountSetup/VerifyAccount/IdentitySubmitRetakeVideo.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/UserEnd/AddLocation/UserLocation.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/UserEnd/ChooseCountry/CountryListUserApiHitGet.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/UserEnd/NotificationHistory/UserNotificationHistory.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/UserEnd/login/UserAuth.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/UserEnd/login/User_Email_Login.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/UserEnd/menu_fragment/booking_history/BookingTimeDomestic.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/UserEnd/menu_fragment/booking_history/CustomPopupMenu.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/UserEnd/menu_fragment/booking_history/UserActiveBookingScreen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/UserEnd/menu_fragment/booking_history/UserPastBookingScreen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/UserEnd/menu_fragment/booking_history/booking_time.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../school_wellbeing/assets/images/barnados.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../school_wellbeing/lib/Constants/Constants.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../school_wellbeing/lib/Excercise/DetailScreens/ExcerciseWeek1DetailScreen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../school_wellbeing/lib/Excercise/DetailScreens/ExcerciseWeek2DetailScreen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../school_wellbeing/lib/Excercise/DetailScreens/ExcerciseWeek3DetailScreen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../school_wellbeing/lib/Excercise/DetailScreens/ExcerciseWeek4DetailScreen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../school_wellbeing/lib/Excercise/DetailScreens/ExcerciseWeek5DetailScreen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../school_wellbeing/lib/Excercise/DetailScreens/ExcerciseWeek6DetailScreen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../school_wellbeing/lib/Excercise/DetailScreens/ExcerciseWeek7DetailScreen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../school_wellbeing/lib/Excercise/DetailScreens/ExcerciseWeek8DetailScreen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../school_wellbeing/lib/Excercise/ExcerciseOption.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../school_wellbeing/lib/Feeling/DetailScreens/AngryDetailScreens.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../school_wellbeing/lib/Feeling/DetailScreens/DefeatedDetailScreens.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../school_wellbeing/lib/Feeling/DetailScreens/DefensiveDetailScreens.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../school_wellbeing/lib/Feeling/DetailScreens/DepressedDetailScreens.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../school_wellbeing/lib/Feeling/DetailScreens/StressedDetailScreens.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../school_wellbeing/lib/Feeling/DetailScreens/TiredDetailScreens.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../school_wellbeing/lib/Feeling/DetailScreens/UnmotivatedDetailScreens.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../school_wellbeing/lib/Feeling/DetailScreens/WorriedDetailScreens.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../school_wellbeing/lib/Feeling/feeling_options.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../school_wellbeing/lib/Help/DetailScreens/HelpDepressionDetailScree.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../school_wellbeing/lib/Help/DetailScreens/HelpEatingDetailScreen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../school_wellbeing/lib/Help/DetailScreens/HelpMentalDetailScreen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../school_wellbeing/lib/Help/DetailScreens/HelpNeedToTalkDetailScreen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../school_wellbeing/lib/Help/DetailScreens/HelpNotSafeDetailScreen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../school_wellbeing/lib/Help/DetailScreens/HelpSexualDetailScreen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../school_wellbeing/lib/Help/DetailScreens/HelpStrugglingDetailScreen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../school_wellbeing/lib/Help/DetailScreens/HelpSuicidalnDetailScreen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../school_wellbeing/lib/Help/HelpOption.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../school_wellbeing/lib/HomeScreen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../school_wellbeing/lib/Nutrition/DetailScreens/NeutritionBreakfastDetail.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../school_wellbeing/lib/Nutrition/DetailScreens/NeutritionDinnerDetailScreen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../school_wellbeing/lib/Nutrition/DetailScreens/NeutritionOneDayTreat.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../school_wellbeing/lib/Nutrition/DetailScreens/NeutritionOneWeekDetailScreen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../school_wellbeing/lib/Nutrition/DetailScreens/NeutritionSnacksDetailsScreen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../school_wellbeing/lib/Nutrition/DetailScreens/NutritionLunchDetailScreen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../school_wellbeing/lib/Nutrition/NutritionOption.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../RadhaWork/sampleapp/LoginScreen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../RadhaWork/sampleapp/assets/images/main-logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../RadhaWork/sampleapp/assets/images/welcome@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../RadhaWork/sampleapp/assets/images/white-logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../RadhaWork/sampleapp/lib/HomeScreen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../RadhaWork/sampleapp/lib/LoginScreen.dart" afterDir="false" />
-    </list>
-    <ignored path="$PROJECT_DIR$/.dart_tool/" />
-    <ignored path="$PROJECT_DIR$/.idea/" />
-    <ignored path="$PROJECT_DIR$/.pub/" />
-    <ignored path="$PROJECT_DIR$/build/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="661ee5f0-3582-4259-938d-bd8bbd87422b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,107 +16,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_5X_API_29" />
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/UserEnd/home_widget.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="115" column="18" selection-start-line="115" selection-start-column="18" selection-end-line="115" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/UserEnd/PaymentSection/paymentSucess.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="147" selection-start-line="147" selection-end-line="147" />
-              <folding>
-                <element signature="e#0#63#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/android/gradle.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/android/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pushNotification/android/app/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="38" column="19" lean-forward="true" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ios/.symlinks/plugins/geolocator/android/lib-proguard-rules.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ios/.symlinks/plugins/geolocator/android/gradle.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/android/app/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/android/local.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/UserEnd/menu_fragment/home_menu_fragment.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="202" column="52" selection-start-line="202" selection-start-column="52" selection-end-line="202" selection-end-column="52" />
-              <folding>
-                <element signature="e#1#64#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -301,12 +122,16 @@
       </list>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-15" />
     <option name="y" value="23" />
     <option name="width" value="1600" />
     <option name="height" value="794" />
   </component>
+  <component name="ProjectId" id="2Qe6njdI3SbScUt1wqYpp5HziFd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -1376,16 +1201,25 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -1404,18 +1238,6 @@
       <recent name="$PROJECT_DIR$/lib/UserEnd/menu_fragment/booking_history" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager" selected="Flutter.main.dart">
     <configuration name="All in clickaclean_android" type="AndroidJUnit" factoryName="Android JUnit" nameIsGenerated="true">
       <module name="clickaclean_android" />
@@ -1427,6 +1249,7 @@
       </method>
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>

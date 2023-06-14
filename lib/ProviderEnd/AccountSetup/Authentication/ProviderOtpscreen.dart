@@ -220,7 +220,7 @@ class _ProviderOTPScreen extends State<ProviderOTPScreen> with SingleTickerProvi
     ];
 
     return new Scaffold(
-      resizeToAvoidBottomPadding: false,
+      resizeToAvoidBottomInset: false,
       appBar: AppBar(title: Text("Enter OTP"), backgroundColor: Color.fromRGBO(241, 123, 72, 1),),
       backgroundColor: Color(0xFFFFFFFF),
       body: Container(

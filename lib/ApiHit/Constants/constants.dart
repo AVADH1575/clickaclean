@@ -4,7 +4,7 @@ class APPURLS_USER {
 
   static const String BASE_URL =
       //"http://sharpwebstudio.us/clickaclean/api/user/";
-      "http://35.178.249.246/app/api/user/";
+      "https://www.getpostman.com/collections/90491f6755026ff46e4c";
 
   static const String GET_USER_COUNTRY_LIST_URL = BASE_URL + "countries";
 

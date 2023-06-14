@@ -32,7 +32,7 @@ class _LoginPageState extends State<LoginPage>{
   @override
   Widget build(BuildContext context){
     return Scaffold(
-    resizeToAvoidBottomPadding: false,
+    resizeToAvoidBottomInset: false,
     body: Container(
     padding: EdgeInsets.only(top: 100.0, right: 20.0, left: 20.0, bottom: 20.0),
     child: Column(

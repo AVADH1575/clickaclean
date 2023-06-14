@@ -1,50 +1,35 @@
 {
   "project_info": {
-    "project_number": "489303829565",
-    "firebase_url": "https://clickaclean-aa963.firebaseio.com",
-    "project_id": "clickaclean-aa963",
-    "storage_bucket": "clickaclean-aa963.appspot.com"
+    "project_number": "432612765370",
+    "firebase_url": "https://clickaclean-c31da.firebaseio.com",
+    "project_id": "clickaclean-c31da",
+    "storage_bucket": "clickaclean-c31da.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:489303829565:android:bb694f253e2cdf08410e54",
+        "mobilesdk_app_id": "1:432612765370:android:fdae5e152b5586436ddc83",
         "android_client_info": {
           "package_name": "com.click.clickaclean"
         }
       },
       "oauth_client": [
         {
-          "client_id": "489303829565-a2t5cnu8kcp3cpr7r2oj7kdhusef08qa.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.click.clickaclean",
-            "certificate_hash": "60d7b55962f60f063f9270a344d27794a156c102"
-          }
-        },
-        {
-          "client_id": "489303829565-806o05imvmgr5071gvt1bgokg742oppj.apps.googleusercontent.com",
+          "client_id": "432612765370-qi3aapkv7asob0jftdugbjepvmugv880.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBDjSe0P8e4vh1XTQxFqT7bw1-QVAlLByE"
+          "current_key": "AIzaSyCRWE-u1RZX9nA8g-7Hq6hCubnRGB6cOsc"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "489303829565-806o05imvmgr5071gvt1bgokg742oppj.apps.googleusercontent.com",
+              "client_id": "432612765370-qi3aapkv7asob0jftdugbjepvmugv880.apps.googleusercontent.com",
               "client_type": 3
-            },
-            {
-              "client_id": "489303829565-ar30kremh3t2edt09tgmumh41umm29sg.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.sws.clickaclean"
-              }
             }
           ]
         }
