@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="271" height="106" viewBox="0 0 271 106">
+  <g id="allow-camera-access" transform="translate(-68 -267)">
+    <g id="Rectangle_810" data-name="Rectangle 810" transform="translate(68 267)" fill="#fff" stroke="#cecdcd" stroke-width="1">
+      <rect width="271" height="106" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="270" height="105" rx="3.5" fill="none"/>
+    </g>
+    <circle id="Ellipse_90" data-name="Ellipse 90" cx="24" cy="24" r="24" transform="translate(78 286)" fill="#cecdcd"/>
+    <rect id="Rectangle_811" data-name="Rectangle 811" width="185" height="7" rx="3.5" transform="translate(138 293)" fill="#cecdcd"/>
+    <rect id="Rectangle_812" data-name="Rectangle 812" width="160" height="7" rx="3.5" transform="translate(138 306)" fill="#cecdcd"/>
+    <rect id="Rectangle_813" data-name="Rectangle 813" width="45" height="7" rx="3.5" transform="translate(138 341)" fill="#cecdcd"/>
+  </g>
+</svg>

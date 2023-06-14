@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="next-icon-orange" transform="translate(-315 -229)">
+    <circle id="Ellipse_89" data-name="Ellipse 89" cx="10" cy="10" r="10" transform="translate(315 229)" fill="#f17b48"/>
+    <path id="chevron-small-right" d="M16.3,14.212,12.5,10.069a.842.842,0,0,1,0-1.185.824.824,0,0,1,1.174,0l4.64,4.734a.843.843,0,0,1,0,1.186l-4.64,4.734a.822.822,0,0,1-1.174,0,.842.842,0,0,1,0-1.185Z" transform="translate(309.747 224.361)" fill="#fff"/>
+  </g>
+</svg>

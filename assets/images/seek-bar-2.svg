@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="229" height="15" viewBox="0 0 229 15">
+  <g id="seek-bar-2" transform="translate(-65 -29)">
+    <g id="Rectangle_814" data-name="Rectangle 814" transform="translate(65 29)" fill="none" stroke="#f8f8f8" stroke-width="1">
+      <rect width="229" height="15" rx="7.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="228" height="14" rx="7" fill="none"/>
+    </g>
+    <g id="Rectangle_815" data-name="Rectangle 815" transform="translate(65 29)" fill="#fff" stroke="#f8f8f8" stroke-width="1">
+      <rect width="145" height="15" rx="7.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="144" height="14" rx="7" fill="none"/>
+    </g>
+  </g>
+</svg>
